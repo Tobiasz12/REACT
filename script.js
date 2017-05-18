@@ -23,7 +23,6 @@ var movies = [
 		desc: 'film o piratach defakto',
 		src: 'http://1.fwcdn.pl/po/65/42/606542/7785907.6.jpg'
 	}
-
 ]
 
 var moviesElements = movies.map(function(movie){
